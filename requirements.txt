@@ -1,4 +1,4 @@
-absl-py==0.13.0
+#absl-py==0.13.0
 alembic==1.5.8
 anyio==2.2.0
 appdirs==1.4.4

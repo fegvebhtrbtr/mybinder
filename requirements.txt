@@ -46,7 +46,7 @@ flatbuffers==1.12
 fsspec==0.9.0
 gast==0.4.0
 GeoAlchemy2==0.12.5
-geopandas==0.11.1
+#geopandas==0.11.1
 gmpy2==2.1.0b1
 google-auth==1.33.1
 google-auth-oauthlib==0.4.4

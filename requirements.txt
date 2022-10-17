@@ -218,7 +218,6 @@ Werkzeug==2.0.1
 wget==3.2
 wheel==0.36.2
 widgetsnbextension==3.5.1
-wolfram-kernel==0.11.3
 wrapt==1.12.1
 xlrd==2.0.1
 zict==2.0.0

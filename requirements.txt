@@ -155,7 +155,7 @@ PyMySQL==1.0.2
 pyOpenSSL==20.0.1
 pyparsing==2.4.7
 #pyproj==3.3.1
-pyrsistent==0.17.3
+#pyrsistent==0.17.3
 PySocks==1.7.1
 pyspark==3.1.1
 python-dateutil==2.8.1

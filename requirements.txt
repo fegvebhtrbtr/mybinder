@@ -58,7 +58,7 @@ HeapDict==1.0.1
 idna==2.10
 imagecodecs==2021.3.31
 imageio==2.9.0
-importlib-metadata==3.10.0
+#importlib-metadata==3.10.0
 ipykernel==5.5.3
 ipympl==0.7.0
 ipyparallel==6.3.0
